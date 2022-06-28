@@ -294,7 +294,7 @@ CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
-💘中央蓝光,#genre#
+💘央视蓝光,#genre#
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
@@ -628,8 +628,6 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 影院4k,http://epg.112114.xyz/douyu/9249162 
-
-💝4K台,#genre#
 4k️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 4k超高清,https://p.ggiptv.com/v/4k.m3u8
 4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
