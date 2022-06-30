@@ -15,7 +15,6 @@
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#http://117.169.120.138:8080/live/fhchinese/.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
 香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8#http://61.244.22.4/ch1/ch1.live/master.m3u8#http://61.244.22.4/ch1/ch1.live/index.m3u8#http://61.244.22.4/ch1/ch1.live/chunklist_w1769233607.m3u8#http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
@@ -31,6 +30,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 中天新闻,http://60.251.59.179:8529/http/192.168.77.24:8081/hls/64/806/ch16.m3u8 CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 icpid=88888888&from=30&hms_devid=1452
 
