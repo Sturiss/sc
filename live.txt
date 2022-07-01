@@ -587,7 +587,6 @@ CCTV5[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 凤凰卫视,http://117.169.120.138:8080/live/fhchinese/.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#http://117.169.120.138:8080/live/fhchinese/.m3u8
 翡翠台，http://120.84.96.226:808/hls/25/index.m3u8
 翡翠台，http://113.64.147.49:808/hls/67/index.m3u8
-翡翠台，http://icvplay.zonekey.com.cn/live/a7a676e1c544584d4df380ec0af16858.flv
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 TVB 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
