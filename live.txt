@@ -749,8 +749,8 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8?zbeid
 
-🥨天津卫视,#genre#
-天津,http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?ztianjd
+🥨天津,#genre#
+天津卫视,http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?ztianjd
 天津科教FHD,http://www.92lovehtc.cn:4022/udp/225.1.1.129:5002
 天津体育FHD,http://www.92lovehtc.cn:4022/udp/225.1.1.122:5002
 天津文艺FHD,http://www.92lovehtc.cn:4022/udp/225.1.1.131:5002
