@@ -599,7 +599,7 @@ TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
 TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
 TVB J2,https://tx-b2.xsafetech.com/live/11666.m3u8
 TVB J2,http://120.84.96.32:808/hls/86/index.m3u8
-TVB J2-01,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+TVB J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
