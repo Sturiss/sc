@@ -607,7 +607,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立新闻,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
 三立新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 中天新闻,http://60.251.59.179:8529/http/192.168.77.24:8081/hls/64/806/ch16.m3u8
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 💥4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
