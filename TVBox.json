@@ -47,7 +47,7 @@
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/hdmoli.json"},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"38c2cbe7e3d34faa96579e706a96817c"},
 
 
 //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
